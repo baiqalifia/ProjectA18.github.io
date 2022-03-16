@@ -305,7 +305,7 @@ body {
 
 .price{
     /* background-color: #42C2FF; */
-    background-image: url(1.jpg);
+    background-image: url(img/1.jpg);
     background-size: cover;
     background-attachment: fixed;
     text-align: center;
