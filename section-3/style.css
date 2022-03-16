@@ -97,9 +97,9 @@ li {
 
 .top-wrapper {
 	padding: 90px 0 100px 0;
-	background-image: url(/C:/Users/intel/Downloads/undraw_static_website_re_x70h.svg);
+	background-image: url(img/website.jpg);
 	background-repeat: no-repeat;
-	background-size: 100%;
+	background-size: right;
 	color: black;
 	text-align: right;
 	padding-right: 75px;
